@@ -1,20 +1,21 @@
 # File: src/qrcodeGenerator.py
 #   Simple QR Code generator
 #
-# Project page: https://github.com/tamagusko/qrcode
-# License: MIT - Copyright 2020 Tiago Tamagusko
+# Project: https://github.com/tamagusko/qrcode
+# License: MIT - 2020 Tiago Tamagusko
 # Author: Tiago Tamagusko <tamagusko@gmail.com>
-# Version: 0.1 (2020-11-28)
+# Version: 0.2 (2020-12-01)
 
 import qrcode
 
 
-def qrcodeGenerator(url, filename='qrcode.png'):
+def qrcodeGenerator(url, filename):
     img = qrcode.make(url)
     img.save(filename)
     return img
 
 
-url = 'https://www.jest.pt'
+url = 'google.com'
 filename = 'qrcode.png'
+
 qrcodeGenerator(url, filename)
