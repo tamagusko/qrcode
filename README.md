@@ -16,6 +16,12 @@ Run file with: `python -u src/qrcodeGenerator.py`
 
 > Output: filename.png (qrcode)
 
+----
+
+Please direct bug reports and pull requests to the GitHub page. To contact me directly, send email to tamagusko@gmail.com.
+
+-- Tiago
+
 ## License
 
 [MIT](LICENSE) (c) 2020, [Tiago Tamagusko](https://tamagusko.github.io/).
