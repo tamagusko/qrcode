@@ -18,4 +18,4 @@ Run file with: `python -u src/qrcodeGenerator.py`
 
 ## License
 
-[MIT](LICENSE) © [tamagusko](https://tamagusko.github.io/).
+[MIT](LICENSE) (c) [tamagusko](https://tamagusko.github.io/).
