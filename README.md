@@ -10,8 +10,11 @@ Install the required packages with `pip install -r requirements.txt`
 
 ## Usage
 
-- Edit lines 18 (url), and 19 (filename) in file src/qrcodeGenerator.py. 
-- Run file with: `python -u src/qrcodeGenerator.py`
+> In file src/qrcodeGenerator.py: edit lines 18 (url), and 19 (filename).
+
+Run file with: `python -u src/qrcodeGenerator.py`
+
+> Output: filename.png (qrcode)
 
 ## License
 
