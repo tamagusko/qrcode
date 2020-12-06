@@ -1,4 +1,4 @@
-# Simple QR Code Generator
+QR Code Generator
 
 Implementation of a QR Code Generator for website links.
 
