@@ -1,4 +1,4 @@
-name: Integration Test
+name: Automatic pipreqs
 on: [push]
 jobs:
   build:
@@ -11,6 +11,6 @@ jobs:
         uses: ryan-rozario/pipreqs-action-cpy@master
 
         # Put an example of mandatory inputs here
-        #with:
+        # with:
         #  PROJECT_PATH: project_folder   #default is the root of the repository
         #  REQUIREMENT_PATH: project_folder/requirement.txt  #default is requirement.txt in the root of your repository 
