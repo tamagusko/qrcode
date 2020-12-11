@@ -1,10 +1,9 @@
-# File: src/qrcodeGenerator.py
-#   Simple QR Code generator
+# qrcodeGenerator.py: Simple QR Code generator
 #
 # Project: https://github.com/tamagusko/qrcode
 # License: MIT (c) 2020, Tiago Tamagusko
 # Author: Tiago Tamagusko <tamagusko@gmail.com>
-# Version: 0.2 (2020-12-01)
+# Version: 0.3 (2020-12-11)
 
 import qrcode
 
