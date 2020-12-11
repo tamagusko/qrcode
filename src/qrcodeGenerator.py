@@ -2,7 +2,7 @@
 #   Simple QR Code generator
 #
 # Project: https://github.com/tamagusko/qrcode
-# License: MIT - 2020 Tiago Tamagusko
+# License: MIT (c) 2020, Tiago Tamagusko
 # Author: Tiago Tamagusko <tamagusko@gmail.com>
 # Version: 0.2 (2020-12-01)
 
