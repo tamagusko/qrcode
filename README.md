@@ -6,7 +6,7 @@ Implementation of a QR Code Generator for website links.
 
 Use Python 3.7 or higher.
 
-Install the required packages with `pip install -r requirement.txt`
+Install the required packages with `pip install -r requirements.txt`
 
 ## Usage
 
